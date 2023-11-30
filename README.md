@@ -2,6 +2,13 @@
 
 This repository is unofficial open repository for list of Q# error 
 
+
+## Compiled repository??
+
+/snippet_.qs(X,Y)
+X == Raw??
+Y == 
+
 ## List
 
 1.QS1001: No matching opening bracket for this closing bracket 
