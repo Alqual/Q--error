@@ -8,9 +8,11 @@ This repository is unofficial open repository for list of Q# error
 
 ---
 
+
 2.QS1002: An opening bracket has not been closed
 
 ---
+
 
 3.QS4001: Namespace declarations can only occur on a global scope
 
