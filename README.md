@@ -13,6 +13,13 @@ This repository is unofficial open repository for list of Q# error
 
 ---
 
+3.QS3306(warning): Parentheses here are no longer required and will not be supported in the future 
+
+---
+
+4.QS3308(warning): Deprecated syntax. Use [] to construct an empty array, or [x, size = n] to construct an array of x repeated n times
+
+---
 
 3.QS4001: Namespace declarations can only occur on a global scope (When Only Namespace declaration is done)
 
