@@ -11,6 +11,13 @@ X == Raw??
 
 Y == 
 
+
+## Code-Rule
+
+error-Code = QSXXXX(Number)
+
+
+
 ## List
 
 1.QS1001: No matching opening bracket for this closing bracket 
@@ -30,6 +37,12 @@ Y ==
 
 ---
 
-3.QS4001: Namespace declarations can only occur on a global scope (When Only Namespace declaration is done)
+5.QS4001: Namespace declarations can only occur on a global scope (When Only Namespace declaration is done)
 
 ---
+
+6.QS5022: No identifier with the name XX exists
+
+---
+
+7.QS6211: Unexpected argument tuple. Expecting an argument of type XX
