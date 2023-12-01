@@ -16,6 +16,12 @@ Y ==
 
 error-Code = QSXXXX(Number)
 
+## Error-Output-Rule
+
+Error1-Detail
+Error2-Detail
+
+Error-list
 
 
 ## List
@@ -30,6 +36,14 @@ error-Code = QSXXXX(Number)
 ---
 
 3.QS3023:  Syntax error in Operation declaration
+
+---
+
+5.QS3035: Unexpected code fragment
+
+---
+
+6.QS3036: An expression used as a statement must be a call expression
 
 ---
 
