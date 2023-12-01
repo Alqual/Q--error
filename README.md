@@ -19,6 +19,7 @@ error-Code = QSXXXX(Number)
 ## Error-Output-Rule
 
 Error1-Detail
+
 Error2-Detail
 
 Error-list
