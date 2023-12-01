@@ -36,7 +36,11 @@ Error-list
 
 ---
 
-3.QS3023:  Syntax error in Operation declaration
+3.QS2003: Expecting semicolon
+
+---
+
+4.QS3023:  Syntax error in Operation declaration
 
 ---
 
@@ -48,28 +52,28 @@ Error-list
 
 ---
 
-4.QS3306(warning): Parentheses here are no longer required and will not be supported in the future 
+7.QS3306(warning): Parentheses here are no longer required and will not be supported in the future 
 
 ---
 
-5.QS3308(warning): Deprecated syntax. Use [] to construct an empty array, or [x, size = n] to construct an array of x repeated n times
+8.QS3308(warning): Deprecated syntax. Use [] to construct an empty array, or [x, size = n] to construct an array of x repeated n times
 
 ---
 
-6.QS4001: Namespace declarations can only occur on a global scope (When Only Namespace declaration is done)
+9.QS4001: Namespace declarations can only occur on a global scope (When Only Namespace declaration is done)
 
 ---
 
-7.QS5022: No identifier with the name XX exists
+10.QS5022: No identifier with the name XX exists
 
 ---
 
-8.QS6104: No namespace with the name XX exists
+11.QS6104: No namespace with the name XX exists
 
 ---
 
-9.QS6211: Unexpected argument tuple. Expecting an argument of type XX
+12.QS6211: Unexpected argument tuple. Expecting an argument of type XX
 
 ---
 
-10.QS6307: Not all code paths return a value
+13.QS6307: Not all code paths return a value
