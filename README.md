@@ -64,16 +64,22 @@ Error-list
 
 ---
 
-10.QS5022: No identifier with the name XX exists
+10.QS4004: Statements can only occur within a callable or speciallization decolaration
 
 ---
 
-11.QS6104: No namespace with the name XX exists
+11.QS5022: No identifier with the name XX exists
 
 ---
 
-12.QS6211: Unexpected argument tuple. Expecting an argument of type XX
+12.QS6104: No namespace with the name XX exists
 
 ---
 
-13.QS6307: Not all code paths return a value
+13.QS6211: Unexpected argument tuple. Expecting an argument of type XX
+
+---
+
+14.QS6307: Not all code paths return a value
+
+---
