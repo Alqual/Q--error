@@ -27,6 +27,14 @@ Error-list
 
 ## List
 
+1.QS0001: Could match type Qubit with type result
+
+---
+
+1.QS0001(same??): Expected type XX, but actual type was YY
+
+---
+
 1.QS0002: The type XX doesn't share a support type with type YY
 
 ---
@@ -34,7 +42,6 @@ Error-list
 1.QS1001: No matching opening bracket for this closing bracket 
 
 ---
-
 
 2.QS1002: An opening bracket has not been closed (When either bracket of function or such that is missing)
 
