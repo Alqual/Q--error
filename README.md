@@ -27,6 +27,10 @@ Error-list
 
 ## List
 
+1.QS0002: The type XX doesn't share a support type with type YY
+
+---
+
 1.QS1001: No matching opening bracket for this closing bracket 
 
 ---
@@ -41,6 +45,10 @@ Error-list
 ---
 
 4.QS3023:  Syntax error in Operation declaration
+
+---
+
+5.QS3033: Type sybol is reserved for internal use only
 
 ---
 
