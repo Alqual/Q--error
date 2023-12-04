@@ -83,6 +83,10 @@ Error-list
 
 ---
 
+11.QS4012: Return-statements may only occur at the end of a using- or borrowing-block
+
+---
+
 11.QS5022: No identifier with the name XX exists
 
 ---
