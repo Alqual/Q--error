@@ -83,6 +83,10 @@ Error-list
 
 ---
 
+11.QS4007: Using-statements cannnot be used in functions
+
+---
+
 11.QS4012: Return-statements may only occur at the end of a using- or borrowing-block
 
 ---
@@ -96,6 +100,10 @@ Error-list
 ---
 
 13.QS6211: Unexpected argument tuple. Expecting an argument of type XX
+
+---
+
+14.QS6306: Operations may only be called from within operations
 
 ---
 
