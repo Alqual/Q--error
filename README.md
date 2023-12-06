@@ -95,6 +95,10 @@ Error-list
 
 ---
 
+17.QS5021: The type of hte expression must be a function of operation type. The given expresssion is of type XX
+
+---
+
 17.QS5022: No identifier with the name XX exists
 
 ---
