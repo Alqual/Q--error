@@ -67,6 +67,10 @@ Error-list
 
 ---
 
+11.QS3201: Invalid identifier declaration. Expecting an unqualified symbol name
+
+---
+
 11.QS3306(warning): Parentheses here are no longer required and will not be supported in the future 
 
 ---
